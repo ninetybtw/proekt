@@ -13,10 +13,10 @@
   --bg-image: url('../images/cover-image-light.png');
   --text-color: #353430;
   --accent-color: #ff8dcb;
-  --title-color: #ffc2e2;
+  --title-color: #ffc2e6;
   --text-on-accent-color: #353430;
+  --decor-color: #353430;
   --hover-border-color: rgb(53 52 48 / 40%);
-  --section-title-color: #353430;
   --rec-display: none;
 }
 
@@ -26,10 +26,10 @@
     --bg-image: url('../images/cover-image-light.png');
     --text-color: #353430;
     --accent-color: #ff8dcb;
-    --title-color: #ffc2e2;
+    --title-color: #ffc2e6;
     --text-on-accent-color: #353430;
+    --decor-color: #353430;
     --hover-border-color: rgb(53 52 48 / 40%);
-    --section-title-color: #353430;
     --rec-display: none;
   }
 }

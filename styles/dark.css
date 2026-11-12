@@ -15,7 +15,7 @@
   --accent-color: #ff0070;
   --title-color: #db00ff;
   --text-on-accent-color: #000028;
+  --decor-color: #ff0070;
   --hover-border-color: rgb(255 0 112 / 40%);
-  --section-title-color: #ff0070;
-  --rec-display: inline-block;
+  --rec-display: flex;
 }
